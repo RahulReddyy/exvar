@@ -1,3 +1,3 @@
-pack exvar
+package exvar
 
 var Name string = "Hey"
