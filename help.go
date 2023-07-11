@@ -1,3 +1,3 @@
 package exvar
 
-var Name string = "Hey"
+var Name string = "Hey" //added Name comment
